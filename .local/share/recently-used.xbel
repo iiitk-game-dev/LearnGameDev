@@ -163,4 +163,30 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/anjali/metatron1999/confirmation" added="2019-05-03T15:48:43Z" modified="2019-05-03T15:48:43Z" visited="2019-05-03T15:48:43Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-05-03T15:48:43Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anjali/rachit/Confirmation_of_Participation" added="2019-05-03T15:55:30Z" modified="2019-05-03T15:56:58Z" visited="2019-05-03T15:55:30Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-05-03T15:56:58Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>
